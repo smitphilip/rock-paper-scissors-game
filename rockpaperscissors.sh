@@ -16,7 +16,7 @@ while true; do
   2) Paper
   3) Scissors: "
   read x
-  
+
   case $x in
     1) USERWEAPON="ROCK" ;;
     2) USERWEAPON="PAPER" ;;
