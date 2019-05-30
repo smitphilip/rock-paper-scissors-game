@@ -1,4 +1,6 @@
 #!/bin/bash
+# Rock Paper Scissors Game
+# Author: Philip
 
 CPUSCORE=0
 PLAYERSCORE=0
