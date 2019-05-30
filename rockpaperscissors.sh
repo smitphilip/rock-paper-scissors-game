@@ -12,6 +12,7 @@ function CHOOSEWEAPON () {
   esac
 }
 
+# adding comments
 while true; do
   echo -e "Choose your weapon... 
   1) Rock
